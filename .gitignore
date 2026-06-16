@@ -1,0 +1,24 @@
+# Dataset - too large for GitHub
+data/
+
+# MLflow auto-generated
+mlruns/
+mlartifacts/
+
+# Saved models
+models/*.pkl
+models/*.json
+models/*.ubj
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
