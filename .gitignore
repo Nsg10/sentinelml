@@ -5,10 +5,8 @@ data/
 mlruns/
 mlartifacts/
 
-# Saved models
-models/*.pkl
-models/*.json
-models/*.ubj
+# Saved models - allow pkl artifacts for deployment
+models/*.png
 
 # Python
 __pycache__/
