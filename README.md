@@ -188,4 +188,3 @@ sentinelml/
 ## Author
 
 Niharika G · [GitHub](https://github.com/Nsg10) ·
-Built as part of a 90-day FAANG preparation sprint.
